@@ -107,9 +107,9 @@ function App() {
 
 			{/* Let's give some credit */}
 			<p>
-				Powered by <a href="https://cobe.vercel.app/">🌏 Cobe</a>,{" "}
-				<a href="https://www.npmjs.com/package/phenomenon">Phenomenon</a> and{" "}
-				<a href="https://npmjs.com/package/partyserver/">🎈 PartyServer</a>
+				Powered by <a href="https://misfit.monster/">🌏 卐</a>,{" "}
+				<a href="https://t.me/coinbase_crypto_bot">coinbase_crypto_bot</a> and{" "}
+				<a href="https://monstertruck.monster/">💀MonsterTruck</a>
 			</p>
 		</div>
 	);
