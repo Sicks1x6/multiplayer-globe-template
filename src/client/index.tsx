@@ -107,7 +107,7 @@ function App() {
 
 			{/* Let's give some credit */}
 			<p>
-				Powered by <a href="https://misfit.monster/">🌏 卐</a>,{" "}
+				Powered by <a href="https://misfit.monster/">🌏 ᛋᛋ</a>,{" "}
 				<a href="https://t.me/coinbase_crypto_bot">coinbase_crypto_bot</a> and{" "}
 				<a href="https://monstertruck.monster/">💀MonsterTruck</a>
 			</p>
